@@ -30,7 +30,7 @@ Deletion Feature/Function
 > apt-get upgrade
 > apt-get install nodejs git -y
 > git clone https://github.com/hamid021206/hamid021206
-> cd Exneph-bot
+> cd BelugaBot
 > bash install.sh
 > npm install
 > node .
