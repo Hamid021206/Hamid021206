@@ -29,8 +29,8 @@ Deletion Feature/Function
 > apt-get update
 > apt-get upgrade
 > apt-get install nodejs git -y
-> git clone https://github.com/hamid021206/Hamid021206
-> cd Hamid021206
+> git clone https://github.com/hamid021206/BotWa
+> cd BotWa
 > bash install.sh
 > npm install
 > node .
